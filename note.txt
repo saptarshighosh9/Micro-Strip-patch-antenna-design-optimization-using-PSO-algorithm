@@ -1,0 +1,4 @@
+NOTE:
+ Few unnecessary line of codes are omitted to shorten the overall length of the matlab code.
+ Matlab files are compiled and converted to .exe file and installers are generated.
+ The software can now run as a standalone application program in any platform
